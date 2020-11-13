@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\bin\Debug\netcoreapp3.1\09.WhileLoop.exe
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\bin\Debug\netcoreapp3.1\09.WhileLoop.deps.json
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\bin\Debug\netcoreapp3.1\09.WhileLoop.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\bin\Debug\netcoreapp3.1\09.WhileLoop.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\bin\Debug\netcoreapp3.1\09.WhileLoop.dll
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\bin\Debug\netcoreapp3.1\09.WhileLoop.pdb
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\obj\Debug\netcoreapp3.1\09.WhileLoop.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\obj\Debug\netcoreapp3.1\09.WhileLoop.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\obj\Debug\netcoreapp3.1\09.WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\obj\Debug\netcoreapp3.1\09.WhileLoop.dll
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\obj\Debug\netcoreapp3.1\09.WhileLoop.pdb
+C:\Users\Bla\source\repos\DataTypes\09.WhileLoop\obj\Debug\netcoreapp3.1\09.WhileLoop.genruntimeconfig.cache
