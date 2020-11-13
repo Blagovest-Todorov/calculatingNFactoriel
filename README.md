@@ -1,0 +1,2 @@
+# calculatingNFactoriel
+calculating n!
